@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kim-nicolasora
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kim-nicolasora!
+- 👀 I’m interested in ... being interesting!
+- 🌱 I’m currently learning ... a lot!
+- 💞️ I’m looking to collaborate on ... love!
+- 📫 How to reach me ... my email!
 
 <!---
 kim-nicolasora/kim-nicolasora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
