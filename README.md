@@ -9,7 +9,7 @@
 
 📫 How to reach me ... my email! 📧
 
-🥦I rock! 🪨
+🥦 I rock! 🪨
 
 <!---
 kim-nicolasora/kim-nicolasora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
